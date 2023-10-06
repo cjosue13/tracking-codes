@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "764850772612",
+    "project_id": "locations-marks",
+    "storage_bucket": "locations-marks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764850772612:android:22c683f02a5e4d9f27c0d1",
+        "android_client_info": {
+          "package_name": "com.marks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764850772612-3qejm1fvv4an361d13bu3au73vvfhgq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marks",
+            "certificate_hash": "735089480997b66fc5e21b85f86ae7d625866049"
+          }
+        },
+        {
+          "client_id": "764850772612-6nrr4t2n5le865qgbji46nvr6hto5e5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marks",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "764850772612-t6eus7up0c40cf736c8htms7grcm853r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcj5_XWQH0E9z4YKvuV7roFNeJNex9ALQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764850772612-t6eus7up0c40cf736c8htms7grcm853r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
